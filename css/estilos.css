@@ -1,0 +1,24 @@
+
+.navbar .nav-item .nav-link
+{
+    color: white;
+}
+.main-header{
+    background: url(../img/img/fondo.jpg);
+    min-height: 500px;
+    background-size: cover;
+}
+.backgroup-overlay{
+    background: rgba(48, 51, 107,.7);
+    width: 100%;
+    
+}
+.team{
+    background-color: rgba(48, 51, 107,.7);
+}
+.fab{
+    color: blue;
+}
+.info{
+    background-color: chartreuse;
+}
